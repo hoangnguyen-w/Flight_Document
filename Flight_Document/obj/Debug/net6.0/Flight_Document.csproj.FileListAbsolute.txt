@@ -61,3 +61,8 @@ D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Do
 D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\obj\Debug\net6.0\Flight_Document.pdb
 D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\obj\Debug\net6.0\Flight_Document.genruntimeconfig.cache
 D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\obj\Debug\net6.0\ref\Flight_Document.dll
+D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\bin\Debug\net6.0\Scrutor.dll
+D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Intern_AltaSoftware\Assignment\Code_Flight_Document\Flight_Document\Flight_Document\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

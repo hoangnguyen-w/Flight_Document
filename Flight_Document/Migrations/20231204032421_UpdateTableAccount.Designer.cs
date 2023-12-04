@@ -4,6 +4,7 @@ using Flight_Document.Entity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Flight_Document.Migrations
 {
     [DbContext(typeof(FlightManagerContext))]
-    partial class FlightManagerContextModelSnapshot : ModelSnapshot
+    [Migration("20231204032421_UpdateTableAccount")]
+    partial class UpdateTableAccount
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

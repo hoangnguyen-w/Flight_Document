@@ -40,6 +40,12 @@ namespace Flight_Document.Entity
         public Guid GroupID { get; set; }
         public virtual Group Group { get; set; }
 
-        public virtual ICollection<Setting> Settings { get; set; }  
+        public virtual ICollection<Setting> Settings { get; set; }
+
+
+        //Bổ sung JWT 
+        public string RefreshToken { get; set; }
+        public DateTime TokenCreated { get; set; }
+        public DateTime TokenExpires { get; set; }
     }
 }
